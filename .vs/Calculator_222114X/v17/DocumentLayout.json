@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cheun\\Downloads\\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\\Calculator_222114X\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D999A11F-AB56-4AEC-99EC-CAC25AAA0A92}|Calculator_222114X\\Calculator_222114X.csproj|c:\\users\\cheun\\downloads\\proj01-e3-03-222114x-cheung_xin_yan_jason\\calculator_222114x\\calculator_222114x\\mainform_222114x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D999A11F-AB56-4AEC-99EC-CAC25AAA0A92}|Calculator_222114X\\Calculator_222114X.csproj|solutionrelative:calculator_222114x\\mainform_222114x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D999A11F-AB56-4AEC-99EC-CAC25AAA0A92}|Calculator_222114X\\Calculator_222114X.csproj|C:\\Users\\cheun\\Downloads\\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\\Calculator_222114X\\calculator_222114x\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D999A11F-AB56-4AEC-99EC-CAC25AAA0A92}|Calculator_222114X\\Calculator_222114X.csproj|solutionrelative:calculator_222114x\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D999A11F-AB56-4AEC-99EC-CAC25AAA0A92}|Calculator_222114X\\Calculator_222114X.csproj|C:\\Users\\cheun\\Downloads\\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\\Calculator_222114X\\calculator_222114x\\mainform_222114x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D999A11F-AB56-4AEC-99EC-CAC25AAA0A92}|Calculator_222114X\\Calculator_222114X.csproj|solutionrelative:calculator_222114x\\mainform_222114x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D999A11F-AB56-4AEC-99EC-CAC25AAA0A92}|Calculator_222114X\\Calculator_222114X.csproj|C:\\Users\\cheun\\Downloads\\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\\Calculator_222114X\\calculator_222114x\\mainform_222114x.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D999A11F-AB56-4AEC-99EC-CAC25AAA0A92}|Calculator_222114X\\Calculator_222114X.csproj|solutionrelative:calculator_222114x\\mainform_222114x.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm_222114X.cs",
+              "DocumentMoniker": "C:\\Users\\cheun\\Downloads\\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\\Calculator_222114X\\Calculator_222114X\\MainForm_222114X.cs",
+              "RelativeDocumentMoniker": "Calculator_222114X\\MainForm_222114X.cs",
+              "ToolTip": "C:\\Users\\cheun\\Downloads\\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\\Calculator_222114X\\Calculator_222114X\\MainForm_222114X.cs",
+              "RelativeToolTip": "Calculator_222114X\\MainForm_222114X.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T03:28:39.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\cheun\\Downloads\\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\\Calculator_222114X\\Calculator_222114X\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Calculator_222114X\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\cheun\\Downloads\\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\\Calculator_222114X\\Calculator_222114X\\Properties\\Resources.resx",
+              "RelativeToolTip": "Calculator_222114X\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002870|",
+              "WhenOpened": "2024-07-15T03:28:39.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm_222114X.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cheun\\Downloads\\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\\Calculator_222114X\\Calculator_222114X\\MainForm_222114X.cs",
+              "RelativeDocumentMoniker": "Calculator_222114X\\MainForm_222114X.cs",
+              "ToolTip": "C:\\Application programing Y2S1\\Calculator_222114X\\Calculator_222114X\\MainForm_222114X.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Application programing Y2S1\\Calculator_222114X\\Calculator_222114X\\MainForm_222114X.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-15T03:28:39.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm_222114X.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cheun\\Downloads\\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\\Calculator_222114X\\Calculator_222114X\\MainForm_222114X.Designer.cs",
+              "RelativeDocumentMoniker": "Calculator_222114X\\MainForm_222114X.Designer.cs",
+              "ToolTip": "C:\\Users\\cheun\\Downloads\\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\\Calculator_222114X\\Calculator_222114X\\MainForm_222114X.Designer.cs",
+              "RelativeToolTip": "Calculator_222114X\\MainForm_222114X.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoDAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-07-15T03:28:39.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\bin\Debug\Calculator_222114X.exe.config
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\bin\Debug\Calculator_222114X.exe
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\bin\Debug\Calculator_222114X.pdb
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.csproj.AssemblyReference.cache
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.csproj.SuggestedBindingRedirects.cache
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.MainForm_222114X.resources
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.Properties.Resources.resources
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.csproj.GenerateResource.cache
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.csproj.CoreCompileInputs.cache
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.exe
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.pdb
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\bin\Debug\Interop.WMPLib.dll
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\bin\Debug\AxInterop.WMPLib.dll
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\obj\Debug\Interop.WMPLib.dll
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\obj\Debug\AxInterop.WMPLib.dll
+C:\Application programing Y2S1\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.csproj.ResolveComReference.cache
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\bin\Debug\Calculator_222114X.exe.config
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\bin\Debug\Calculator_222114X.exe
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\bin\Debug\Calculator_222114X.pdb
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\bin\Debug\Interop.WMPLib.dll
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.csproj.AssemblyReference.cache
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\obj\Debug\Interop.WMPLib.dll
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.csproj.ResolveComReference.cache
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.MainForm_222114X.resources
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.Properties.Resources.resources
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.csproj.GenerateResource.cache
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.csproj.CoreCompileInputs.cache
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.exe
+C:\Users\cheun\Downloads\PROJ01-E3-03-222114X-Cheung_Xin_Yan_Jason\Calculator_222114X\Calculator_222114X\obj\Debug\Calculator_222114X.pdb
